@@ -9,7 +9,7 @@ I’m a recent Master of Science graduate in Bioinformatics from Johns Hopkins U
 - Turning unstructured data into insights  
 
 ## 💻 Skills & Tools
-- **Programming:** SAS, R, Python, SQL  
+- **Programming:** R, SAS, Python, SQL  
 - **Tools:** Jupyter Notebook, Git, GitHub, Linux  
 - **Techniques:** Statistical modeling, data visualization, machine learning basics, data wrangling  
 
